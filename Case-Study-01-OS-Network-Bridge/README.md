@@ -30,6 +30,7 @@ A workstation running a Windows environment suffered a complete failure of its w
 ---
 
 ## 📬 Connect With Me
-If you are looking for data insights, tech systems optimization, or freelance IT contract support, let's connect:
+If you are looking for technical data insights, system lifecycle optimization, or independent IT consulting, let's collaborate:
 * **LinkedIn:** www.linkedin.com/in/enyinnaya-ahuekwe-48b778424
+* **GitHub Portfolio:** https://github.com/Ae1000
 * **Email:** enyinnaya.setters@gmail.com
